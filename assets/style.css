@@ -290,6 +290,7 @@ tr:last-child td{border-bottom:0}
 .duo-card.teach .duo-foot{border-color:#dde1ec}
 .duo-foot strong{color:var(--ink)}
 .duo-foot a{font-weight:700;white-space:nowrap;margin-left:4px}
+.duo-card.teach .duo-foot a{white-space:normal;display:inline-block;text-wrap:balance}
 @media (max-width:900px){.duo{grid-template-columns:1fr}.more-sec{padding:64px 0}}
 @media (max-width:640px){.duo-shot img{height:190px}.duo-card{padding:12px}.duo-body{padding:18px 8px 6px}}
 
